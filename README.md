@@ -1,5 +1,4 @@
-# Simulazione monitoraggio di un operatore in un tunnel sotterraneo
-
+# Simulazione monitoraggio di un prodotto in un grande magazzino
 ## Spiegazione Progetto:
 
 Nel problema presentato, vi è un magazzino al cui interno può anche non essere presente alcuna connessione alla rete internet. sono installati al suo interno dei dispositivi anchor per un eventuale scambio di dati. All'entrata e all'uscita è presente rispettivamente un gateway che si occupa di ricevere i dati dagli anchor e inoltrarli ad un server.
