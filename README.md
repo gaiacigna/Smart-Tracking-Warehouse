@@ -7,8 +7,8 @@ Il seguente progetto, dunque, prevede di monitorare in tempo reale dei prodotti 
 E' necessario eseguire il codice di più dispositivi Anchor se si vuole verificare l'inoltro del messaggio ai vari nodi, tramite procollo LoRa.
 Il codice del Gateway si comporterà come un "bridge" che si occuperà di ricevere i messaggi dai nodi anchor ed inoltrarli al server.
 Per vedere i dati dei prodotti su una dashboard, eseguire il login con le credenziali: id -> "PROVA" 
-Password -> "Password"
-Una volta effettuato l'accesso alla pagina sulla rete locale "dashboard.php", sarà possibile vedere l'aggiornamento 
+Password -> "Password".
+Una volta effettuato l'accesso alla pagina sulla rete locale "dashboard.php", sarà possibile vedere l'aggiornamento in tempo reale.
 
 
 ### Cosa installare:
